@@ -1,0 +1,26 @@
+T Cruiser Test Page
+This page demonstrates the basic features of Cruiser.
+
+A \.\@
+The Auxilliary File used by cruiser to mark up the directory contents.
+
+I .*~$
+I \#.*\#
+C Ignore emacs backup files.
+
+I \.\.
+I \.git
+C Hide some ancillary directories
+
+A cruiser.pl
+The Cruiser Perl script
+Markup documentation is inside the script file.<BR/>
+Perldoc documentation supplied soon.
+
+A .*\.md
+Files in MarkDown format.
+
+A LICENSE
+Apache 2.0 License
+How nice, you don't have to open it to get an idea what's in it!
+
